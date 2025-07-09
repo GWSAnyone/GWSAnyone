@@ -107,13 +107,8 @@
 ## 📞 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anyone_lust)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig3lii2017@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=GWSAnyone.GWSAnyone" alt="visitor badge"/>
-</div>
 
 <div align="center">
   <i>Всегда открыт для интересных проектов и технических вызовов</i>
