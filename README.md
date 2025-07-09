@@ -104,36 +104,10 @@
 - 🔧 **Architecture**: Проектирование масштабируемых concurrent систем
 - 🤖 **AI Integration**: Успешное внедрение локальных LLM в production
 
-## 🌟 Принципы разработки
-
-```go
-// Чистый, производительный код
-func ProcessConcurrently(items []WorkItem) {
-    sem := make(chan struct{}, maxConcurrency)
-    var wg sync.WaitGroup
-    
-    for _, item := range items {
-        wg.Add(1)
-        go func(item WorkItem) {
-            defer wg.Done()
-            sem <- struct{}{}
-            defer func() { <-sem }()
-            processItem(item)
-        }(item)
-    }
-    wg.Wait()
-}
-```
-
-- **Performance first** - оптимизация на всех уровнях
-- **Clean architecture** - модульность, тестируемость
-- **Production ready** - мониторинг, graceful shutdown, error handling
-- **Continuous learning** - следую новым технологиям и практикам
-
 ## 📞 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anyone_lust)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig3lii2017@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig3lii2017@gmail.com)
 
 ---
 
