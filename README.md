@@ -31,7 +31,7 @@
 
 ## 💼 Ключевые проекты
 
-### 🎁 [Telegram Gifts Parser - Web Data Extraction Framework (Private)](https://github.com/GWSAnyone/GiftsParser)
+### 🎁 [Telegram Gifts Parser - Web Data Extraction Framework (Private)](./GiftsParserREADME.md)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![HTTP/3](https://img.shields.io/badge/HTTP%2F3-FF6B6B?style=flat-square)
@@ -44,7 +44,7 @@
 - 🔒 **Безопасность**: Anti-bot bypass, JA3 отпечатки, rate limiting
 - 🔄 **Развитие**: Gui, дополнительные целевые площадки
 
-### 🎤 [Virtual AI Companion - Голосовой AI-ассистент (Private)](https://github.com/GWSAnyone/Virtual_Assistant)
+### 🎤 [Virtual AI Companion - Голосовой AI-ассистент (Private)](./Virtual_AssistantREADME.md)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square)
